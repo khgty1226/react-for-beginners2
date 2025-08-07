@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.079a8ab7.css","mappings":"AAAA,mBAEI,uBAAwB,CADxB,UAEJ,CCHA,mBACI,yBAA0B,CAC1B,cACJ","sources":["Button.module.css","App.module.css"],"sourcesContent":[".btn{\r\n    color: white;\r\n    background-color: tomato;\r\n}",".title {\r\n    font-family: -apple-system;\r\n    font-size: 18px;\r\n}"],"names":[],"sourceRoot":""}
